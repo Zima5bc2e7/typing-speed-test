@@ -1,7 +1,5 @@
 # Typing Speed Test
 
-![Typing Speed Test]
-
 ## Overview
 
 The Typing Speed Test is a simple Python program built using the Tkinter library. It allows users to test and improve their typing speed by providing a random paragraph and measuring accuracy, words per minute (WPM), and more.
