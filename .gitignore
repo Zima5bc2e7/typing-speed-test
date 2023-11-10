@@ -1,0 +1,8 @@
+*.iml
+*.xml
+build/
+dist/
+venv/
+*.spec
+__pycache__/
+.idea/
